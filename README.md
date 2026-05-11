@@ -1,6 +1,6 @@
-# 💫 About Me:
-👋 Hi, I'm Zeynep!<br>I am a 3rd-year Computer Engineering student with a deep passion for Artificial Intelligence and Software Engineering. I enjoy exploring the intersection of data and intelligence to build systems that solve real-world problems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Junior+Computer+Engineer;AI+%26+Deep+Learning+Enthusiast;Metal+Music+Lover+🤘)](https://git.io/typing-svg)
 
+👋 Hi, I'm Zeynep!<br>I am a 3rd-year Computer Engineering student with a deep passion for Artificial Intelligence and Software Engineering. I enjoy exploring the intersection of data and intelligence to build systems that solve real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zeynep-emeç-3831522b7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeynepemec7@gmail.com) 
